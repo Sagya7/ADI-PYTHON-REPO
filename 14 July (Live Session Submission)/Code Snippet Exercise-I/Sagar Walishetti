@@ -7,3 +7,4 @@ try:
 	<write code here>
 except StopIteration:
     print('Stop!')
+ 
