@@ -1,1 +1,9 @@
-first class of python
+ADI_list = [10, 20, 30, 40]
+
+ADIiter = iter(ADI_list)
+
+try:
+    while True:
+	<write code here>
+except StopIteration:
+    print('Stop!')
